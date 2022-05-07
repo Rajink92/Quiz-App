@@ -1,6 +1,6 @@
 ## Quizzy! The Quiz app!
 
-
+<img width="1440" alt="Screen Shot 2022-05-07 at 1 25 05 PM" src="https://user-images.githubusercontent.com/95498292/167265130-edc9a6f6-c45c-476e-b13b-c3b92b2477e6.png">
 ![Screen Shot 2022-05-04 at 9 47 23 PM (2)](https://user-images.githubusercontent.com/95498292/167264969-a985410f-5a75-4d6b-aff1-2234eb6d4779.png)
 <img width="1440" alt="Screen Shot 2022-05-07 at 1 22 13 PM" src="https://user-images.githubusercontent.com/95498292/167265056-e8519838-3bc0-4bf0-b680-58<img width="1440" alt="Screen Shot 2022-05-07 at 1 22 21 PM" src="https://user-images.githubusercontent.com/95498292/167265058-7bb8cf7d-4df7-4c2a-8132-824edb9a9cb7.png">
 7cde9e05fa.png">
