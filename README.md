@@ -1,12 +1,13 @@
 ## Quizzy! The Quiz app!
 
 <img width="1440" alt="Screen Shot 2022-05-07 at 1 25 05 PM" src="https://user-images.githubusercontent.com/95498292/167265130-edc9a6f6-c45c-476e-b13b-c3b92b2477e6.png">
-![Screen Shot 2022-05-04 at 9 47 23 PM (2)](https://user-images.githubusercontent.com/95498292/167264969-a985410f-5a75-4d6b-aff1-2234eb6d4779.png)
-<img width="1440" alt="Screen Shot 2022-05-07 at 1 22 13 PM" src="https://user-images.githubusercontent.com/95498292/167265056-e8519838-3bc0-4bf0-b680-58<img width="1440" alt="Screen Shot 2022-05-07 at 1 22 21 PM" src="https://user-images.githubusercontent.com/95498292/167265058-7bb8cf7d-4df7-4c2a-8132-824edb9a9cb7.png">
-7cde9e05fa.png">
+
+<img width="1440" alt="Screen Shot 2022-05-07 at 1 22 21 PM" src="https://user-images.githubusercontent.com/95498292/167265209-e696871e-daf4-4d54-8386-6b2156ac5397.png">
+
 <img width="1440" alt="Screen Shot 2022-05-07 at 1 22 36 PM" src="https://user-images.githubusercontent.com/95498292/167265059-7186b758-cc3d-436b-8690-2c3b520052a0.png">
-<img width="1440" alt="Screen Shot 2022-05-07 at 1 22 02 PM" src="https://user-images.githubusercontent.com/95498292/167265062-4e95c595-759f-4da9-87ae-9a788<img width="1440" alt="Screen Shot 2022-05-07 at 1 22 09 PM" src="https://user-images.githubusercontent.com/95498292/167265063-fbb554b0-f807-4769-b88f-45e9be9409ed.png">
-ac6dd27.png">
+
+<img width="1440" alt="Screen Shot 2022-05-07 at 1 22 09 PM" src="https://user-images.githubusercontent.com/95498292/167265235-b29f80a5-ba87-4f30-a691-bf67330b9879.png">
+
 <img width="1440" alt="Screen Shot 2022-05-07 at 1 21 54 PM" src="https://user-images.githubusercontent.com/95498292/167265069-9a97a765-26d3-4910-b82d-36db17cbdfe0.png">
 
 
